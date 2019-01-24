@@ -1,2 +1,2 @@
 # cloudconfig-repo
-it is a repository for the springcloud config,which serve as a demo
+It is a sample repository which serves the springcloud config.
